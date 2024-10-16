@@ -6,7 +6,7 @@
 🤖 TypeBot</br>
 💬 ChatGPT</br>
 
-01/11/2024 – Versão 5.0.0 - Gratuita
+01/11/2024 – Versão 5.0.0
 
 🛠️ Correção no Vcard </br>
 🔄 Função de habilitar e desabilitar novos registros</br>
@@ -17,7 +17,7 @@
 🔄 Botão para reiniciar conexões adicionado</br>
 🎨 Alterar logo pelo Painel</br>
 🆕 Adicionado nova ABA Cadastrar Empresa</br>
-📋 Add Opção Plano Interno</br>
+📋 Add Opção Plano Interno</br></br>
 
 🍕 Pague-me uma Pizza 🍕 </br>
 Chave Pix: rodnei@rwebtec.com.br</br></br>
